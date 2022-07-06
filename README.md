@@ -24,5 +24,8 @@ Nótese que las entradas están inicialmente en cero, y los pulsadores son norma
         ENDIF
     ENDPROC
 ```
+## Resultados
+
+Los resultados se verificaron en simulación, también se cargó el código de rapid para observar el desarrollo de la tarea con el robot. El resultado se muestra en el siguiente video:
 
 https://youtu.be/7uX0r3Xu_g4
