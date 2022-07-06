@@ -25,4 +25,4 @@ Nótese que las entradas están inicialmente en cero, y los pulsadores son norma
     ENDPROC
 ```
 
-
+https://youtu.be/7uX0r3Xu_g4
